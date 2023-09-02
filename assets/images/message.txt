@@ -1,0 +1,517 @@
+ <section class="bg-pink pb-5">
+        <div class="container">
+            <div class="d-flex justify-content-center">
+                <p class="none text-black">slickslider-2</p>
+            </div>
+            <div class=" my-slide" id="slide1">
+                <div class="box3">
+                    <p class="justin">Justin Septimus</p>
+                    <p class="word">CEO,word yt</p>
+                    <p class="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sit a laoreet libero dis
+                        eget
+                        maecenas
+                        bibendum. Morbi lacinia
+                        eu, etiam volutpat morbi et amet, sagittis adipiscing.</p>
+                </div>
+                <div class="box3">
+                    <p class="justin">Justin Septimus</p>
+                    <p class="word">CEO,word yt</p>
+                    <p class="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sit a laoreet libero dis
+                        eget
+                        maecenas
+                        bibendum. Morbi lacinia
+                        eu, etiam volutpat morbi et amet, sagittis adipiscing.</p>
+                </div>
+                <div class="box3">
+                    <p class="justin">Justin Septimus</p>
+                    <p class="word">CEO,word yt</p>
+                    <p class="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sit a laoreet libero dis
+                        eget
+                        maecenas
+                        bibendum. Morbi lacinia
+                        eu, etiam volutpat morbi et amet, sagittis adipiscing.</p>
+                </div>
+                <div class="box3">
+                    <p class="justin">Justin Septimus</p>
+                    <p class="word">CEO,word yt</p>
+                    <p class="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sit a laoreet libero dis
+                        eget
+                        maecenas
+                        bibendum. Morbi lacinia
+                        eu, etiam volutpat morbi et amet, sagittis adipiscing.</p>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="d-flex justify-content-center">
+                <p class="none text-black">slickslider-3</p>
+            </div>
+            <div class="slider">
+                <div class="box4">
+                    <span>
+                        <svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <g clip-path="url(#clip0_2_6447)">
+                                <path
+                                    d="M12.96 18.4166L6.61177 22.3058L8.33761 15.0474L2.68921 10.1941L10.1034 9.59825L12.96 2.70825L15.8166 9.59825L23.2319 10.1941L17.5824 15.0474L19.3082 22.3058L12.96 18.4166Z"
+                                    fill="#FF5300" />
+                            </g>
+                            <defs>
+                                <clipPath id="clip0_2_6447">
+                                    <rect width="25.92" height="26" fill="white" />
+                                </clipPath>
+                            </defs>
+                        </svg>
+    
+                    </span>
+                    <svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <g clip-path="url(#clip0_2_6447)">
+                            <path
+                                d="M12.96 18.4166L6.61177 22.3058L8.33761 15.0474L2.68921 10.1941L10.1034 9.59825L12.96 2.70825L15.8166 9.59825L23.2319 10.1941L17.5824 15.0474L19.3082 22.3058L12.96 18.4166Z"
+                                fill="#FF5300" />
+                        </g>
+                        <defs>
+                            <clipPath id="clip0_2_6447">
+                                <rect width="25.92" height="26" fill="white" />
+                            </clipPath>
+                        </defs>
+                    </svg>
+                    <svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <g clip-path="url(#clip0_2_6447)">
+                            <path
+                                d="M12.96 18.4166L6.61177 22.3058L8.33761 15.0474L2.68921 10.1941L10.1034 9.59825L12.96 2.70825L15.8166 9.59825L23.2319 10.1941L17.5824 15.0474L19.3082 22.3058L12.96 18.4166Z"
+                                fill="#FF5300" />
+                        </g>
+                        <defs>
+                            <clipPath id="clip0_2_6447">
+                                <rect width="25.92" height="26" fill="white" />
+                            </clipPath>
+                        </defs>
+                    </svg>
+                    <svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <g clip-path="url(#clip0_2_6447)">
+                            <path
+                                d="M12.96 18.4166L6.61177 22.3058L8.33761 15.0474L2.68921 10.1941L10.1034 9.59825L12.96 2.70825L15.8166 9.59825L23.2319 10.1941L17.5824 15.0474L19.3082 22.3058L12.96 18.4166Z"
+                                fill="#FF5300" />
+                        </g>
+                        <defs>
+                            <clipPath id="clip0_2_6447">
+                                <rect width="25.92" height="26" fill="white" />
+                            </clipPath>
+                        </defs>
+                    </svg>
+                    <svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <g clip-path="url(#clip0_2_6447)">
+                            <path
+                                d="M12.96 18.4166L6.61177 22.3058L8.33761 15.0474L2.68921 10.1941L10.1034 9.59825L12.96 2.70825L15.8166 9.59825L23.2319 10.1941L17.5824 15.0474L19.3082 22.3058L12.96 18.4166Z"
+                                fill="#FF5300" />
+                        </g>
+                        <defs>
+                            <clipPath id="clip0_2_6447">
+                                <rect width="25.92" height="26" fill="white" />
+                            </clipPath>
+                        </defs>
+                    </svg>
+                    <p class="sit">Lorem ipsum dolor sit amet, consecte tur adipiscing elit. Ultrices blandit pelle
+                        ntesque
+                        nibh arcu
+                        elementum odio justo.
+                        Rhoncus.</p>
+                    <div class="d-flex justify-content-between">
+                        <img src="./assets/images/girl1.png" alt="1">
+                        <div class="">
+                            <p class="levin mb-0">Phillip Levin</p>
+                            <p class="creative mb-0">CEO / Creative IT</p>
+                        </div>
+    
+                        <span>
+                            <svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <g clip-path="url(#clip0_2_6467)">
+                                    <path
+                                        d="M48.5425 16.6974C51.1175 19.4324 52.5 22.4999 52.5 27.4724C52.5 36.2224 46.3575 44.0649 37.425 47.9424L35.1925 44.4974C43.53 39.9874 45.16 34.1349 45.81 30.4449C44.4675 31.1399 42.71 31.3824 40.9875 31.2224C36.4775 30.8049 32.9225 27.1024 32.9225 22.4999C32.9225 20.1792 33.8444 17.9536 35.4853 16.3127C37.1263 14.6717 39.3519 13.7499 41.6725 13.7499C44.355 13.7499 46.92 14.9749 48.5425 16.6974ZM23.5425 16.6974C26.1175 19.4324 27.5 22.4999 27.5 27.4724C27.5 36.2224 21.3575 44.0649 12.425 47.9424L10.1925 44.4974C18.53 39.9874 20.16 34.1349 20.81 30.4449C19.4675 31.1399 17.71 31.3824 15.9875 31.2224C11.4775 30.8049 7.9225 27.1024 7.9225 22.4999C7.9225 20.1792 8.84437 17.9536 10.4853 16.3127C12.1263 14.6717 14.3519 13.7499 16.6725 13.7499C19.355 13.7499 21.92 14.9749 23.5425 16.6974Z"
+                                        fill="#BCC1C7" />
+                                </g>
+                                <defs>
+                                    <clipPath id="clip0_2_6467">
+                                        <rect width="60" height="60" fill="white" transform="matrix(-1 0 0 -1 60 60)" />
+                                    </clipPath>
+                                </defs>
+                            </svg>
+    
+                        </span>
+                    </div>
+                </div>
+                <div class="box4">
+                    <span>
+                        <svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <g clip-path="url(#clip0_2_6447)">
+                                <path
+                                    d="M12.96 18.4166L6.61177 22.3058L8.33761 15.0474L2.68921 10.1941L10.1034 9.59825L12.96 2.70825L15.8166 9.59825L23.2319 10.1941L17.5824 15.0474L19.3082 22.3058L12.96 18.4166Z"
+                                    fill="#FF5300" />
+                            </g>
+                            <defs>
+                                <clipPath id="clip0_2_6447">
+                                    <rect width="25.92" height="26" fill="white" />
+                                </clipPath>
+                            </defs>
+                        </svg>
+    
+                    </span>
+                    <svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <g clip-path="url(#clip0_2_6447)">
+                            <path
+                                d="M12.96 18.4166L6.61177 22.3058L8.33761 15.0474L2.68921 10.1941L10.1034 9.59825L12.96 2.70825L15.8166 9.59825L23.2319 10.1941L17.5824 15.0474L19.3082 22.3058L12.96 18.4166Z"
+                                fill="#FF5300" />
+                        </g>
+                        <defs>
+                            <clipPath id="clip0_2_6447">
+                                <rect width="25.92" height="26" fill="white" />
+                            </clipPath>
+                        </defs>
+                    </svg>
+                    <svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <g clip-path="url(#clip0_2_6447)">
+                            <path
+                                d="M12.96 18.4166L6.61177 22.3058L8.33761 15.0474L2.68921 10.1941L10.1034 9.59825L12.96 2.70825L15.8166 9.59825L23.2319 10.1941L17.5824 15.0474L19.3082 22.3058L12.96 18.4166Z"
+                                fill="#FF5300" />
+                        </g>
+                        <defs>
+                            <clipPath id="clip0_2_6447">
+                                <rect width="25.92" height="26" fill="white" />
+                            </clipPath>
+                        </defs>
+                    </svg>
+                    <svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <g clip-path="url(#clip0_2_6447)">
+                            <path
+                                d="M12.96 18.4166L6.61177 22.3058L8.33761 15.0474L2.68921 10.1941L10.1034 9.59825L12.96 2.70825L15.8166 9.59825L23.2319 10.1941L17.5824 15.0474L19.3082 22.3058L12.96 18.4166Z"
+                                fill="#FF5300" />
+                        </g>
+                        <defs>
+                            <clipPath id="clip0_2_6447">
+                                <rect width="25.92" height="26" fill="white" />
+                            </clipPath>
+                        </defs>
+                    </svg>
+                    <svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <g clip-path="url(#clip0_2_6447)">
+                            <path
+                                d="M12.96 18.4166L6.61177 22.3058L8.33761 15.0474L2.68921 10.1941L10.1034 9.59825L12.96 2.70825L15.8166 9.59825L23.2319 10.1941L17.5824 15.0474L19.3082 22.3058L12.96 18.4166Z"
+                                fill="#FF5300" />
+                        </g>
+                        <defs>
+                            <clipPath id="clip0_2_6447">
+                                <rect width="25.92" height="26" fill="white" />
+                            </clipPath>
+                        </defs>
+                    </svg>
+                    <p class="sit">Lorem ipsum dolor sit amet, consecte tur adipiscing elit. Ultrices blandit pelle
+                        ntesque
+                        nibh arcu
+                        elementum odio justo.
+                        Rhoncus.</p>
+                    <div class="d-flex justify-content-between">
+                        <img src="./assets/images/girl1.png" alt="1">
+                        <div class="">
+                            <p class="levin mb-0">Phillip Levin</p>
+                            <p class="creative mb-0">CEO / Creative IT</p>
+                        </div>
+    
+                        <span>
+                            <svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <g clip-path="url(#clip0_2_6467)">
+                                    <path
+                                        d="M48.5425 16.6974C51.1175 19.4324 52.5 22.4999 52.5 27.4724C52.5 36.2224 46.3575 44.0649 37.425 47.9424L35.1925 44.4974C43.53 39.9874 45.16 34.1349 45.81 30.4449C44.4675 31.1399 42.71 31.3824 40.9875 31.2224C36.4775 30.8049 32.9225 27.1024 32.9225 22.4999C32.9225 20.1792 33.8444 17.9536 35.4853 16.3127C37.1263 14.6717 39.3519 13.7499 41.6725 13.7499C44.355 13.7499 46.92 14.9749 48.5425 16.6974ZM23.5425 16.6974C26.1175 19.4324 27.5 22.4999 27.5 27.4724C27.5 36.2224 21.3575 44.0649 12.425 47.9424L10.1925 44.4974C18.53 39.9874 20.16 34.1349 20.81 30.4449C19.4675 31.1399 17.71 31.3824 15.9875 31.2224C11.4775 30.8049 7.9225 27.1024 7.9225 22.4999C7.9225 20.1792 8.84437 17.9536 10.4853 16.3127C12.1263 14.6717 14.3519 13.7499 16.6725 13.7499C19.355 13.7499 21.92 14.9749 23.5425 16.6974Z"
+                                        fill="#BCC1C7" />
+                                </g>
+                                <defs>
+                                    <clipPath id="clip0_2_6467">
+                                        <rect width="60" height="60" fill="white" transform="matrix(-1 0 0 -1 60 60)" />
+                                    </clipPath>
+                                </defs>
+                            </svg>
+    
+                        </span>
+                    </div>
+                </div>
+                <div class="box4">
+                    <span>
+                        <svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <g clip-path="url(#clip0_2_6447)">
+                                <path
+                                    d="M12.96 18.4166L6.61177 22.3058L8.33761 15.0474L2.68921 10.1941L10.1034 9.59825L12.96 2.70825L15.8166 9.59825L23.2319 10.1941L17.5824 15.0474L19.3082 22.3058L12.96 18.4166Z"
+                                    fill="#FF5300" />
+                            </g>
+                            <defs>
+                                <clipPath id="clip0_2_6447">
+                                    <rect width="25.92" height="26" fill="white" />
+                                </clipPath>
+                            </defs>
+                        </svg>
+    
+                    </span>
+                    <svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <g clip-path="url(#clip0_2_6447)">
+                            <path
+                                d="M12.96 18.4166L6.61177 22.3058L8.33761 15.0474L2.68921 10.1941L10.1034 9.59825L12.96 2.70825L15.8166 9.59825L23.2319 10.1941L17.5824 15.0474L19.3082 22.3058L12.96 18.4166Z"
+                                fill="#FF5300" />
+                        </g>
+                        <defs>
+                            <clipPath id="clip0_2_6447">
+                                <rect width="25.92" height="26" fill="white" />
+                            </clipPath>
+                        </defs>
+                    </svg>
+                    <svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <g clip-path="url(#clip0_2_6447)">
+                            <path
+                                d="M12.96 18.4166L6.61177 22.3058L8.33761 15.0474L2.68921 10.1941L10.1034 9.59825L12.96 2.70825L15.8166 9.59825L23.2319 10.1941L17.5824 15.0474L19.3082 22.3058L12.96 18.4166Z"
+                                fill="#FF5300" />
+                        </g>
+                        <defs>
+                            <clipPath id="clip0_2_6447">
+                                <rect width="25.92" height="26" fill="white" />
+                            </clipPath>
+                        </defs>
+                    </svg>
+                    <svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <g clip-path="url(#clip0_2_6447)">
+                            <path
+                                d="M12.96 18.4166L6.61177 22.3058L8.33761 15.0474L2.68921 10.1941L10.1034 9.59825L12.96 2.70825L15.8166 9.59825L23.2319 10.1941L17.5824 15.0474L19.3082 22.3058L12.96 18.4166Z"
+                                fill="#FF5300" />
+                        </g>
+                        <defs>
+                            <clipPath id="clip0_2_6447">
+                                <rect width="25.92" height="26" fill="white" />
+                            </clipPath>
+                        </defs>
+                    </svg>
+                    <svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <g clip-path="url(#clip0_2_6447)">
+                            <path
+                                d="M12.96 18.4166L6.61177 22.3058L8.33761 15.0474L2.68921 10.1941L10.1034 9.59825L12.96 2.70825L15.8166 9.59825L23.2319 10.1941L17.5824 15.0474L19.3082 22.3058L12.96 18.4166Z"
+                                fill="#FF5300" />
+                        </g>
+                        <defs>
+                            <clipPath id="clip0_2_6447">
+                                <rect width="25.92" height="26" fill="white" />
+                            </clipPath>
+                        </defs>
+                    </svg>
+                    <p class="sit">Lorem ipsum dolor sit amet, consecte tur adipiscing elit. Ultrices blandit pelle
+                        ntesque
+                        nibh arcu
+                        elementum odio justo.
+                        Rhoncus.</p>
+                    <div class="d-flex justify-content-between">
+                        <img src="./assets/images/girl1.png" alt="1">
+                        <div class="">
+                            <p class="levin mb-0">Phillip Levin</p>
+                            <p class="creative mb-0">CEO / Creative IT</p>
+                        </div>
+    
+                        <span>
+                            <svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <g clip-path="url(#clip0_2_6467)">
+                                    <path
+                                        d="M48.5425 16.6974C51.1175 19.4324 52.5 22.4999 52.5 27.4724C52.5 36.2224 46.3575 44.0649 37.425 47.9424L35.1925 44.4974C43.53 39.9874 45.16 34.1349 45.81 30.4449C44.4675 31.1399 42.71 31.3824 40.9875 31.2224C36.4775 30.8049 32.9225 27.1024 32.9225 22.4999C32.9225 20.1792 33.8444 17.9536 35.4853 16.3127C37.1263 14.6717 39.3519 13.7499 41.6725 13.7499C44.355 13.7499 46.92 14.9749 48.5425 16.6974ZM23.5425 16.6974C26.1175 19.4324 27.5 22.4999 27.5 27.4724C27.5 36.2224 21.3575 44.0649 12.425 47.9424L10.1925 44.4974C18.53 39.9874 20.16 34.1349 20.81 30.4449C19.4675 31.1399 17.71 31.3824 15.9875 31.2224C11.4775 30.8049 7.9225 27.1024 7.9225 22.4999C7.9225 20.1792 8.84437 17.9536 10.4853 16.3127C12.1263 14.6717 14.3519 13.7499 16.6725 13.7499C19.355 13.7499 21.92 14.9749 23.5425 16.6974Z"
+                                        fill="#BCC1C7" />
+                                </g>
+                                <defs>
+                                    <clipPath id="clip0_2_6467">
+                                        <rect width="60" height="60" fill="white" transform="matrix(-1 0 0 -1 60 60)" />
+                                    </clipPath>
+                                </defs>
+                            </svg>
+    
+                        </span>
+                    </div>
+                </div>
+                <div class="box4">
+                    <span>
+                        <svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <g clip-path="url(#clip0_2_6447)">
+                                <path
+                                    d="M12.96 18.4166L6.61177 22.3058L8.33761 15.0474L2.68921 10.1941L10.1034 9.59825L12.96 2.70825L15.8166 9.59825L23.2319 10.1941L17.5824 15.0474L19.3082 22.3058L12.96 18.4166Z"
+                                    fill="#FF5300" />
+                            </g>
+                            <defs>
+                                <clipPath id="clip0_2_6447">
+                                    <rect width="25.92" height="26" fill="white" />
+                                </clipPath>
+                            </defs>
+                        </svg>
+    
+                    </span>
+                    <svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <g clip-path="url(#clip0_2_6447)">
+                            <path
+                                d="M12.96 18.4166L6.61177 22.3058L8.33761 15.0474L2.68921 10.1941L10.1034 9.59825L12.96 2.70825L15.8166 9.59825L23.2319 10.1941L17.5824 15.0474L19.3082 22.3058L12.96 18.4166Z"
+                                fill="#FF5300" />
+                        </g>
+                        <defs>
+                            <clipPath id="clip0_2_6447">
+                                <rect width="25.92" height="26" fill="white" />
+                            </clipPath>
+                        </defs>
+                    </svg>
+                    <svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <g clip-path="url(#clip0_2_6447)">
+                            <path
+                                d="M12.96 18.4166L6.61177 22.3058L8.33761 15.0474L2.68921 10.1941L10.1034 9.59825L12.96 2.70825L15.8166 9.59825L23.2319 10.1941L17.5824 15.0474L19.3082 22.3058L12.96 18.4166Z"
+                                fill="#FF5300" />
+                        </g>
+                        <defs>
+                            <clipPath id="clip0_2_6447">
+                                <rect width="25.92" height="26" fill="white" />
+                            </clipPath>
+                        </defs>
+                    </svg>
+                    <svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <g clip-path="url(#clip0_2_6447)">
+                            <path
+                                d="M12.96 18.4166L6.61177 22.3058L8.33761 15.0474L2.68921 10.1941L10.1034 9.59825L12.96 2.70825L15.8166 9.59825L23.2319 10.1941L17.5824 15.0474L19.3082 22.3058L12.96 18.4166Z"
+                                fill="#FF5300" />
+                        </g>
+                        <defs>
+                            <clipPath id="clip0_2_6447">
+                                <rect width="25.92" height="26" fill="white" />
+                            </clipPath>
+                        </defs>
+                    </svg>
+                    <svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <g clip-path="url(#clip0_2_6447)">
+                            <path
+                                d="M12.96 18.4166L6.61177 22.3058L8.33761 15.0474L2.68921 10.1941L10.1034 9.59825L12.96 2.70825L15.8166 9.59825L23.2319 10.1941L17.5824 15.0474L19.3082 22.3058L12.96 18.4166Z"
+                                fill="#FF5300" />
+                        </g>
+                        <defs>
+                            <clipPath id="clip0_2_6447">
+                                <rect width="25.92" height="26" fill="white" />
+                            </clipPath>
+                        </defs>
+                    </svg>
+                    <p class="sit">Lorem ipsum dolor sit amet, consecte tur adipiscing elit. Ultrices blandit pelle
+                        ntesque
+                        nibh arcu
+                        elementum odio justo.
+                        Rhoncus.</p>
+                    <div class="d-flex justify-content-between">
+                        <img src="./assets/images/girl1.png" alt="1">
+                        <div class="">
+                            <p class="levin mb-0">Phillip Levin</p>
+                            <p class="creative mb-0">CEO / Creative IT</p>
+                        </div>
+    
+                        <span>
+                            <svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <g clip-path="url(#clip0_2_6467)">
+                                    <path
+                                        d="M48.5425 16.6974C51.1175 19.4324 52.5 22.4999 52.5 27.4724C52.5 36.2224 46.3575 44.0649 37.425 47.9424L35.1925 44.4974C43.53 39.9874 45.16 34.1349 45.81 30.4449C44.4675 31.1399 42.71 31.3824 40.9875 31.2224C36.4775 30.8049 32.9225 27.1024 32.9225 22.4999C32.9225 20.1792 33.8444 17.9536 35.4853 16.3127C37.1263 14.6717 39.3519 13.7499 41.6725 13.7499C44.355 13.7499 46.92 14.9749 48.5425 16.6974ZM23.5425 16.6974C26.1175 19.4324 27.5 22.4999 27.5 27.4724C27.5 36.2224 21.3575 44.0649 12.425 47.9424L10.1925 44.4974C18.53 39.9874 20.16 34.1349 20.81 30.4449C19.4675 31.1399 17.71 31.3824 15.9875 31.2224C11.4775 30.8049 7.9225 27.1024 7.9225 22.4999C7.9225 20.1792 8.84437 17.9536 10.4853 16.3127C12.1263 14.6717 14.3519 13.7499 16.6725 13.7499C19.355 13.7499 21.92 14.9749 23.5425 16.6974Z"
+                                        fill="#BCC1C7" />
+                                </g>
+                                <defs>
+                                    <clipPath id="clip0_2_6467">
+                                        <rect width="60" height="60" fill="white" transform="matrix(-1 0 0 -1 60 60)" />
+                                    </clipPath>
+                                </defs>
+                            </svg>
+    
+                        </span>
+                    </div>
+                </div>
+                <div class="box4">
+                    <span>
+                        <svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <g clip-path="url(#clip0_2_6447)">
+                                <path
+                                    d="M12.96 18.4166L6.61177 22.3058L8.33761 15.0474L2.68921 10.1941L10.1034 9.59825L12.96 2.70825L15.8166 9.59825L23.2319 10.1941L17.5824 15.0474L19.3082 22.3058L12.96 18.4166Z"
+                                    fill="#FF5300" />
+                            </g>
+                            <defs>
+                                <clipPath id="clip0_2_6447">
+                                    <rect width="25.92" height="26" fill="white" />
+                                </clipPath>
+                            </defs>
+                        </svg>
+    
+                    </span>
+                    <svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <g clip-path="url(#clip0_2_6447)">
+                            <path
+                                d="M12.96 18.4166L6.61177 22.3058L8.33761 15.0474L2.68921 10.1941L10.1034 9.59825L12.96 2.70825L15.8166 9.59825L23.2319 10.1941L17.5824 15.0474L19.3082 22.3058L12.96 18.4166Z"
+                                fill="#FF5300" />
+                        </g>
+                        <defs>
+                            <clipPath id="clip0_2_6447">
+                                <rect width="25.92" height="26" fill="white" />
+                            </clipPath>
+                        </defs>
+                    </svg>
+                    <svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <g clip-path="url(#clip0_2_6447)">
+                            <path
+                                d="M12.96 18.4166L6.61177 22.3058L8.33761 15.0474L2.68921 10.1941L10.1034 9.59825L12.96 2.70825L15.8166 9.59825L23.2319 10.1941L17.5824 15.0474L19.3082 22.3058L12.96 18.4166Z"
+                                fill="#FF5300" />
+                        </g>
+                        <defs>
+                            <clipPath id="clip0_2_6447">
+                                <rect width="25.92" height="26" fill="white" />
+                            </clipPath>
+                        </defs>
+                    </svg>
+                    <svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <g clip-path="url(#clip0_2_6447)">
+                            <path
+                                d="M12.96 18.4166L6.61177 22.3058L8.33761 15.0474L2.68921 10.1941L10.1034 9.59825L12.96 2.70825L15.8166 9.59825L23.2319 10.1941L17.5824 15.0474L19.3082 22.3058L12.96 18.4166Z"
+                                fill="#FF5300" />
+                        </g>
+                        <defs>
+                            <clipPath id="clip0_2_6447">
+                                <rect width="25.92" height="26" fill="white" />
+                            </clipPath>
+                        </defs>
+                    </svg>
+                    <svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <g clip-path="url(#clip0_2_6447)">
+                            <path
+                                d="M12.96 18.4166L6.61177 22.3058L8.33761 15.0474L2.68921 10.1941L10.1034 9.59825L12.96 2.70825L15.8166 9.59825L23.2319 10.1941L17.5824 15.0474L19.3082 22.3058L12.96 18.4166Z"
+                                fill="#FF5300" />
+                        </g>
+                        <defs>
+                            <clipPath id="clip0_2_6447">
+                                <rect width="25.92" height="26" fill="white" />
+                            </clipPath>
+                        </defs>
+                    </svg>
+                    <p class="sit">Lorem ipsum dolor sit amet, consecte tur adipiscing elit. Ultrices blandit pelle
+                        ntesque
+                        nibh arcu
+                        elementum odio justo.
+                        Rhoncus.</p>
+                    <div class="d-flex justify-content-between">
+                        <img src="./assets/images/girl1.png" alt="1">
+                        <div class="">
+                            <p class="levin mb-0">Phillip Levin</p>
+                            <p class="creative mb-0">CEO / Creative IT</p>
+                        </div>
+    
+                        <span>
+                            <svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <g clip-path="url(#clip0_2_6467)">
+                                    <path
+                                        d="M48.5425 16.6974C51.1175 19.4324 52.5 22.4999 52.5 27.4724C52.5 36.2224 46.3575 44.0649 37.425 47.9424L35.1925 44.4974C43.53 39.9874 45.16 34.1349 45.81 30.4449C44.4675 31.1399 42.71 31.3824 40.9875 31.2224C36.4775 30.8049 32.9225 27.1024 32.9225 22.4999C32.9225 20.1792 33.8444 17.9536 35.4853 16.3127C37.1263 14.6717 39.3519 13.7499 41.6725 13.7499C44.355 13.7499 46.92 14.9749 48.5425 16.6974ZM23.5425 16.6974C26.1175 19.4324 27.5 22.4999 27.5 27.4724C27.5 36.2224 21.3575 44.0649 12.425 47.9424L10.1925 44.4974C18.53 39.9874 20.16 34.1349 20.81 30.4449C19.4675 31.1399 17.71 31.3824 15.9875 31.2224C11.4775 30.8049 7.9225 27.1024 7.9225 22.4999C7.9225 20.1792 8.84437 17.9536 10.4853 16.3127C12.1263 14.6717 14.3519 13.7499 16.6725 13.7499C19.355 13.7499 21.92 14.9749 23.5425 16.6974Z"
+                                        fill="#BCC1C7" />
+                                </g>
+                                <defs>
+                                    <clipPath id="clip0_2_6467">
+                                        <rect width="60" height="60" fill="white" transform="matrix(-1 0 0 -1 60 60)" />
+                                    </clipPath>
+                                </defs>
+                            </svg>
+    
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
